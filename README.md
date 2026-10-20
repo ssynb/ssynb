@@ -11,4 +11,9 @@ Based in Shenzhen, building AI agent tools that put Codex and Claude Code to wor
 | [syagent](https://github.com/ssynb/syagent) | 自己养大的 agent：从一个 shell 起步，按你的反馈长出工具、改写自己<br>A self-evolving agent you raise yourself: starts with a shell, grows its own tools, rewrites itself from your feedback |
 | [代码库地图 · Codebase Atlas](https://github.com/ssynb/codebase-understanding-atlas-skill) | 把陌生开源项目变成能点、能搜、说人话的交互式地图<br>Turns an unfamiliar codebase into a clickable, searchable map explained in plain language |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssynb/ssynb/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ssynb/ssynb/output/github-snake.svg">
+</picture>
+
 📫 macoverseas1@outlook.com
