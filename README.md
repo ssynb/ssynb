@@ -6,6 +6,7 @@ Based in Shenzhen, building AI agent tools that put Codex and Claude Code to wor
 
 | 项目 · Project | 做什么 · What it does |
 |---|---|
+| [s-ui](https://github.com/ssynb/s-ui) | AI 网页设计工作台：选参考定风格，用对话和画圈改页面，实时试字体与配色<br>An AI web design workbench: start from references, edit through chat and annotations, and preview fonts and colors live |
 | [boss 投递助手](https://github.com/ssynb/boss-toudi-assistant) | 用自己的 Codex 在本地筛岗位、整批确认后自动投递，支持 macOS / Windows<br>Filters BOSS Zhipin jobs locally with your own Codex and applies after one batch confirmation |
 | [sppt](https://github.com/ssynb/sppt) | 沿用参考 PPT 的版式，把你的资料高保真填成新 PPT<br>Fills your content into a new deck that keeps a reference PPT's layout and design |
 | [syagent](https://github.com/ssynb/syagent) | 自己养大的 agent：从一个 shell 起步，按你的反馈长出工具、改写自己<br>A self-evolving agent you raise yourself: starts with a shell, grows its own tools, rewrites itself from your feedback |
